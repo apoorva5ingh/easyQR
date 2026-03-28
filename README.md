@@ -1,1 +1,1 @@
-# easyQR
+# easyQR !
